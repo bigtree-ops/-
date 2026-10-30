@@ -1,0 +1,6 @@
+PyYAML>=6.0
+requests>=2.31
+google-api-python-client>=2.100
+google-auth-oauthlib>=1.2
+google-auth-httplib2>=0.2
+# 한국어 음성(MeloTTS)은 README 설치 순서를 따라 별도 설치하세요

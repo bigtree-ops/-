@@ -1,0 +1,26 @@
+# 영상 1개 = job 파일 1개. jobs/inbox 에 넣으면 watch 모드가 자동 처리합니다.
+title: "아직도 손목 아프게 칼질하세요? 3초 만에 끝나는 다지기"
+description: |
+  손목 아픈 칼질은 이제 그만!
+  버튼 한 번이면 마늘, 양파, 고기까지 3초 컷.
+  구매는 프로필 링크에서 확인하세요.
+  #주방템 #살림템 #다지기 #자취필수템
+tags: [주방용품, 살림템, 다지기, 자취템, 추천템]
+privacy: private
+# publish_at: "2026-11-01T19:00:00+09:00"   # 예약 공개 (선택)
+# thumbnail: ../assets/products/thumb.jpg     # 썸네일 (선택, 채널 인증 필요)
+
+format: shorts
+avatar_image: ../assets/avatar/host.png     # 인물 정면 사진
+# music: ../assets/music/bright.mp3        # 지정 안 하면 assets/music 에서 랜덤, none = 음악 없음
+
+scenes:
+  - text: 아직도 마늘 하나하나 칼로 다지세요?
+    image: ../assets/products/1.jpg
+  - text: 손목 아프고, 손에 냄새 배고, 설거지도 한가득이잖아요.
+  - text: 이거 하나면 버튼 한 번에 3초면 끝나요.
+    image: ../assets/products/2.jpg
+  - text: 마늘, 양파, 고기까지 원하는 굵기로 다져지고요. 통째로 물세척도 돼요.
+  - text: 무선이라 캠핑 갈 때도 챙겨가기 딱 좋아요.
+    image: ../assets/products/3.jpg
+  - text: 지금 할인 중이니까 프로필 링크에서 꼭 확인해 보세요!

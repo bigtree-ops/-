@@ -1,0 +1,16 @@
+work/
+output/
+secrets/
+__pycache__/
+*.pyc
+venv/
+.venv/
+jobs/inbox/*
+jobs/done/*
+jobs/failed/*
+!jobs/*/.gitkeep
+assets/music/*
+assets/avatar/*
+assets/products/*
+assets/fonts/*
+!assets/*/.gitkeep
